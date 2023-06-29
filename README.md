@@ -8,11 +8,13 @@
 - 🌱 I'm currently learning new JS applications, and starting learning frameworks and libraries like React.JS (and React Native), Angular and Next.JS
 - 📫 How to reach me: matheusrwebdesign@gmail.com || matheusrodriguessmaia0318@gmail.com
 
+<!--
 <div>
   <a href="https://github.com/matheus-rodrigues-m">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=matheus-rodrigues-m&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+-->
 
  <div style="display: inline_block"><br>
    <img align="center" alt="Matheus-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
