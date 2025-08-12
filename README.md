@@ -4,9 +4,9 @@
 **matheus-rodrigues-m/matheus-rodrigues-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on front-end development 
-- 🌱 I'm currently learning new JS applications, and starting learning frameworks and libraries like React.JS (and React Native), Angular and Next.JS
-- 📫 How to reach me: matheusrwebdesign@gmail.com || matheusrodriguessmaia0318@gmail.com
+- 🔭 I'm currently working in Software Engineering
+- 🌱 I'm learning by deepening my studies to specialize in Python, and later, in Data and Artificial Intelligence
+- 📫 How to reach me: matheusrwebdesign@gmail.com || +55 (38) 9 9185-8001
 
 <!--
 <div>
