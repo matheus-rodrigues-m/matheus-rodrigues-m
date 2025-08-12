@@ -32,7 +32,8 @@
    
    
    
-   <img height="120" width="120" align="right" alt="Matheus-AstaGif" src="https://cdn.discordapp.com/attachments/888143779230519317/888144317342969856/deabsft-a1b74ab5-bd5f-477e-9f50-2d4aad24ef2f.gif">
+   <img height="120" width="120" align="right" alt="Matheus-AstaGif" src="https://cdn.discordapp.com/attachments/888143779230519317/888144317342969856/deabsft-a1b74ab5-bd5f-477e-9f50-2d4aad24ef2f.gif?ex=689c3e9a&is=689aed1a&hm=efabd3187e10914165c9044e99e111b463591b880009b4d3896ee9a33cb013a8&">
+   
    
 </div>
  
