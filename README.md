@@ -5,7 +5,7 @@
 -->
 
 - 🔭 I'm currently working in Software Engineering
-- 🌱 I'm learning by deepening my studies to specialize in Python, and later, in Data and Artificial Intelligence
+- 🌱 I'm learning by deepening my studies to specialize in Python, and later, in Data Engineering and Artificial Intelligence
 - 📫 How to reach me: matheusrwebdesign@gmail.com || +55 (38) 9 9185-8001
 
 <!--
