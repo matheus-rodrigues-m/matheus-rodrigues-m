@@ -4,7 +4,7 @@
 **matheus-rodrigues-m/matheus-rodrigues-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I'm currently working in Software Engineering
+- 🔭 I'm currently working in Data Engineering
 - 🌱 I'm learning by deepening my studies to specialize in Python, and later, in Data Engineering and Artificial Intelligence
 - 📫 How to reach me: matheusrwebdesign@gmail.com || +55 (38) 9 9185-8001
 
