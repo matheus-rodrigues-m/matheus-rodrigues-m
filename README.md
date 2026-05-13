@@ -21,6 +21,7 @@
    <img align="center" alt="Matheus-SQL" height="35" width="40" src="https://img.icons8.com/color/48/000000/sql.png"/>
    <img align="center" alt="Matheus-AWS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
    <img align="center" alt="Matheus-Airflow" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg"/>
+   <img align="center" alt="Matheus-Terraform" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg"/>
    <img align="center" alt="Matheus-Databricks" height="35" width="40" src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg"/>
    <img align="center" alt="Matheus-Docker" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
    <img align="center" alt="Matheus-Kubernetes" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg"/>
